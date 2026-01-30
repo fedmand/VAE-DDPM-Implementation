@@ -1,3 +1,6 @@
+## Gitignore configured to ignore dl and icl_utils folder
+dl/data/
+icl_dl_cw2_utils/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
