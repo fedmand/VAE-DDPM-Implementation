@@ -1,22 +1,12 @@
 # Deep Learning Coursework 2: Generative models
 
-The notebook dl_cw2.ipynb provides the skeleton for Coursework 3, focusing on generative models (VAEs and Diffusion models).
-Setup instructions, depdency requirements, and running instructions are provided in the same notebook.
-For any questions, please post a message on EdStem. Good luck!
+The notebook dl_cw2.ipynb provides the skeleton for Coursework 2, focusing on generative models (VAEs and Diffusion models).
+Setup instructions, dependency requirements, and running instructions are provided in the same notebook.
+
 
 ## Local testing
 
 This notebook contains two public tests and one private test (VAE parameter size and DDPM schedules). You should be able to run the public tests locally by running the first notebook cell which is the otter setup.
-
-## GPUDojo setup
-
-For this coursework, we recommend working with GPUDojo, although imperial resources are also accessible.
-
-### Requesting an instance
-
-To connect to a GPUDojo instance, simply visit [gpudojo.doc.ic.ac.uk](gpudojo.doc.ic.ac.uk).
-
-Once the instance has been created, simply click "Open Jupyter on your VM". You can also connect remotely via ssh and work with VS Code. Intructions on this setup will be available on an EdStem announcement shortly.
 
 ### Cloning repository and setting up an environment
 
