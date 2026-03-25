@@ -12,9 +12,7 @@ This notebook contains two public tests and one private test (VAE parameter size
 
 Open a Terminal, clone the CW2 repository, and cd into it:
 
-``git clone https://gitlab.doc.ic.ac.uk/lab2526_spring/<cohort-code>_DL_CW_2_<user-id>.git``
-
-``cd <cohort-code>_DL_CW_2_<user-id>``
+``git clone https://github.com/fedmand/VAE-DDPM-Implementation.git``
 
 Now we need to create an environment to install our packages. Let's install pipenv and create it:
 
